@@ -1,0 +1,6 @@
+groq
+streamlit
+python-dotenv
+duckduckgo-search
+requests
+tavily-python
